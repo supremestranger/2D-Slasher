@@ -1,2 +1,2 @@
 # 2D-Slasher
-2D Slasher game made on LeoECS Lite framework
+This is 2D Slasher game made on Unity engine using LeoECS Lite framework.
